@@ -1,0 +1,34 @@
+body
+{
+	background-color: #61122f;
+}
+#nav
+{
+	margin-top: 20px;
+	border: 1px solid black;
+}
+.ds1
+{
+	text-decoration: none;
+	color: #8B008B;
+	margin-left: 10px;
+}
+.ds
+{
+	text-decoration: none;
+	color: #8B008B;
+}
+#h1
+{
+	text-align: center;
+	margin-top: 10px;
+}
+.text
+{
+	margin-left: 10px;
+}
+.pic
+{
+	margin-left: 10px;
+	border: 2px solid black;
+}
